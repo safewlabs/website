@@ -1,0 +1,5 @@
+# Redirect domain aliases to primary domain
+http://safew.tech/* http://safew.tech/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+http://heuristic-poitras-29e15b.netlify.com/* http://safew.tech/:splat 301!
