@@ -25,7 +25,7 @@
         <li><a href="https://getnotified.me" target="blank">Get Notified</a> - A full service notifications API.</li>
       </ul>
       <p>If you have any inquiries related to above projects or have any projects we can help with feel free to get in touch.</p>
-      <p><a href="mailto:saurabh@safew.tech?subject=Howdy!" target="blank">Saurabh Bhatia</a>, Founder</p>
+      <p>Saurabh Bhatia, Founder | <a href="https://medium.com/safew-tech-labs" target="blank">Blog</a> | <a href="mailto:saurabh@safew.tech?subject=Howdy!" target="blank">Email</a> | +61-415772685</p>
     </div>
     <div class="column"></div>
   </div>
